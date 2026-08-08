@@ -4,4 +4,10 @@ venv/
 .venv/
 bookings.json
 dachas.json
+support.json
+support_messages.json
+owners.json
+guests.json
+contracts/
 .env
+
