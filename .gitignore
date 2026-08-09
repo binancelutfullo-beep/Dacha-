@@ -8,6 +8,8 @@ support.json
 support_messages.json
 owners.json
 guests.json
+owner_codes.json
+promocodes.json
 contracts/
 .env
 
