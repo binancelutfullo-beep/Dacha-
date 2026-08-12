@@ -11,5 +11,7 @@ guests.json
 owner_codes.json
 promocodes.json
 about.txt
+settings.json
 contracts/
 .env
+
